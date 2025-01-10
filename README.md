@@ -1,16 +1,40 @@
-## Hi there 👋
+Hey there, I am Vikrant.  
+I do security, AI, and some random programming stuff.
 
-<!--
-**0xcrypto/0xcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Key Links
 
-Here are some ideas to get you started:
+📄 [Curriculum Vitae](https://o.eval.blog/cv) ⋅🧑‍💻 [Research](https://eval.blog/research) ⋅ 📝 [Blog](https://eval.blog/blog) ⋅ 🤔 [About](https://eval.blog/about)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Major Projects
+
+* 🛡️ **[Default RED Technologies](https://defaultred.com)**  
+  Mass scale vulnerability scanning and exploitation efforts.
+
+* 🎮 **[Hackberry Games](https://hackberry.xyz)**  
+  Indie game development for fun and profit.
+
+* ☁️ **[Sasha Cloud](https://getsasha.cloud)**  
+  AI-driven cloud storage and data management.
+
+---
+
+### 🛠️ Tools
+
+* 🔧 **TBD** – New tools coming soon!
+
+---
+
+### 🔬 Experiments
+
+* 💥 **[Public Exploits](https://github.com/0xcrypto/exploits)**  
+  Explore publicly available exploits and vulnerabilities I'm researching.
+
+---
+
+### 🌐 Connect With Me
+
+* 👾 [GitHub](https://github.com/0xcrypto)
+* 🦸‍♂️ [Mastodon](https://infosec.exchange/@0xcrypto)
+* 💼 [LinkedIn](https://linkedin.com/in/0xcrypto)
+* 🔑 [Keybase](https://keybase.io/0xcrypto)
+* 📡 [RSS](https://eval.blog/rss.xml)
