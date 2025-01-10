@@ -20,4 +20,4 @@
  ⋅ 🦸‍♂️ [Mastodon](https://infosec.exchange/@0xcrypto)
  ⋅ 💼 [LinkedIn](https://linkedin.com/in/0xcrypto)
  ⋅ 🔑 [Keybase](https://keybase.io/0xcrypto)
- ⋅ 📡 [RSS](https://eval.blog/rss.xml ⋅ 
+ ⋅ 📡 [RSS](https://eval.blog/rss.xml)
